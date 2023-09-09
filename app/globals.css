@@ -122,8 +122,8 @@
 }
 
 .cl-organizationSwitcherTrigger
-.cl-organizationPreview
-.cl-organizationPreviewTextContainer {
+  .cl-organizationPreview
+  .cl-organizationPreviewTextContainer {
   @apply max-sm:hidden;
 }
 
